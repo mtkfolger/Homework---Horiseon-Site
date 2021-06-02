@@ -2,9 +2,9 @@
 
 # Completed on 6.1.21
 
-Screenshot of completed site: <img src="../users/folger/desktop/Horiseon_Site.jpg">
+Screenshot of completed site:![Horiseon_Site](https://user-images.githubusercontent.com/84151997/120412718-0630cd80-c325-11eb-95ae-ac53d25fe01f.JPG)
 
-Link to depoloyed application: <a href "https://mtkfolger.github.io/Homework-Horiseon-Site/>
+Link to depoloyed application: https://mtkfolger.github.io/Homework-Horiseon-Site
 
 ## Your Task
 
