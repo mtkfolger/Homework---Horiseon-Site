@@ -1,15 +1,17 @@
+/* * is the universal selector page - this applies to the whole site */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
     font-size: 24px;
 }
-
+/* Only affects the body portion of the html */
 body {
     background-color: #d9dcd6;
     font-size: 32px;
 }
-
+/* Changes here affect the header tag */
 header {
     padding: 1%;
 
@@ -21,16 +23,19 @@ header {
     padding-bottom: 0%;
 }
 
+/* Changes here specifically affect the h1 tag */
 header h1 {
     display: inline-block;
     font-size: 200%;
 }
 
+/* This changes the color of the letters seo in the main header on the page */
 header h1 .seo {
     color: #d9dcd6;
     font-size: 100%;
 }
 
+/* this changes the nav tag  */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,21 +45,24 @@ header nav {
     list-style-type: none;
 }
 
-
+/* This changes the ul and li elements in the nav */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* This changes the links, the color and decoration of links on the page */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* This changes all paragraph elements */
 p {
     font-size: 85%;
 }
 
+/* This changes the hero tag, which houses the main images for the site */
 .hero {
     display: block;
     height: auto;
@@ -68,6 +76,7 @@ p {
     background-position: center;
     background-repeat: no-repeat;
 }
+
 
 .float-left {
     float: left;
@@ -85,6 +94,9 @@ p {
     margin-left: 20px;
 }
 
+/* This sets the content on the right side of the page in a seperate
+element, known as an aside, which is content seperate from the main 
+body content of the site */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -96,6 +108,8 @@ aside {
     background-color: #2589bd;
 }
 
+/* The various elements within class .benefit - -brand,-cost and -lead, are each of 
+the three sections in the aside, and their various elements (img,header, text, etc.*/
 .benefit-lead {
     margin-bottom: 10%;
     color: #ffffff;
@@ -198,6 +212,9 @@ aside {
     margin-bottom: 20px;
     font-size: 150%;
 }
+
+/* the final elements here for footer and footer h2 control the footer and its 
+heading */
 
 footer {
     padding: 30px;
