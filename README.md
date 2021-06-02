@@ -1,5 +1,11 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+# Completed on 6.1.21
+
+Screenshot of completed site: <img src="../users/folger/desktop/Horiseon_Site.jpg">
+
+Link to depoloyed application: <a href "https://mtkfolger.github.io/Homework-Horiseon-Site/>
+
 ## Your Task
 
 Be sure to review the [Homework Guide](./Homework-Guide/README.md) before you start working on this assignment! This week is an odd-numbered week, so your homework is an on-the-job ticket&mdash;meaning that you'll begin with starter code that you need to modify. 
